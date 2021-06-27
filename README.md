@@ -56,7 +56,7 @@ Lista adresów IP w pliku RouterA.txt
 
 1.	Skrypt przerywa działanie oraz wskazuje numery wierszy duplikujących się wraz adresem IP w formie binarnej. (należy pamiętać ze numeracja wierszy w listach rozpoczyna się od 0) – w naszym przykładzie 4 i 5 to wiersz 5 i 6
  
-Poprawne wywołanie programy dla 1 pliku – duplikacja adresów IP (dwie pary) w pliku :
+### Poprawne wywołanie programy dla 1 pliku – duplikacja adresów IP (dwie pary) w pliku :
 Lista adresów IP w pliku RouterA.txt
 
 ![image](https://github.com/Varkame/AgregacjaIP/blob/main/13.jpg)
